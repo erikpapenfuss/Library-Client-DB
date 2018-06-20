@@ -1,0 +1,77 @@
+20.6.18 15:41:59	This log contains information about the import schema operation into project 'Database1' on computer 'F64JL82' by user 'erik.papenfuss'.
+20.6.18 15:41:59	Import of database schema has started.
+20.6.18 15:42:17	Gathering database options
+20.6.18 15:42:17	Gathering users
+20.6.18 15:42:17	Gathering roles
+20.6.18 15:42:17	Gathering application roles
+20.6.18 15:42:17	Gathering role memberships
+20.6.18 15:42:17	Gathering filegroups
+20.6.18 15:42:17	Gathering full-text catalogs
+20.6.18 15:42:17	Gathering assemblies
+20.6.18 15:42:17	Gathering certificates
+20.6.18 15:42:17	Gathering asymmetric keys
+20.6.18 15:42:17	Gathering symmetric keys
+20.6.18 15:42:17	Gathering encrypted symmetric keys
+20.6.18 15:42:17	Gathering schemas
+20.6.18 15:42:21	Gathering XML schema collections
+20.6.18 15:42:21	Gathering user-defined data types
+20.6.18 15:42:21	Gathering user-defined types
+20.6.18 15:42:21	Gathering table types
+20.6.18 15:42:21	Gathering unique keys for table types
+20.6.18 15:42:21	Gathering primary keys for table types
+20.6.18 15:42:21	Gathering indexes for table types
+20.6.18 15:42:21	Gathering check constraints for table types
+20.6.18 15:42:21	Gathering default constraints for table types
+20.6.18 15:42:21	Gathering partition functions
+20.6.18 15:42:21	Gathering partition schemes
+20.6.18 15:42:21	Gathering functions
+20.6.18 15:42:21	Gathering encrypted functions
+20.6.18 15:42:21	Gathering aggregates
+20.6.18 15:42:21	Gathering procedures
+20.6.18 15:42:21	Gathering encrypted procedures
+20.6.18 15:42:21	Gathering tables
+20.6.18 15:42:21	Gathering primary keys
+20.6.18 15:42:21	Gathering unique constraints
+20.6.18 15:42:21	Gathering foreign keys
+20.6.18 15:42:21	Gathering default constraints
+20.6.18 15:42:21	Gathering check constraints
+20.6.18 15:42:21	Gathering views
+20.6.18 15:42:21	Gathering encrypted views
+20.6.18 15:42:21	Gathering indexes
+20.6.18 15:42:21	Gathering statistics
+20.6.18 15:42:21	Gathering full-text index stoplists
+20.6.18 15:42:21	Gathering search property lists
+20.6.18 15:42:21	Gathering search properties
+20.6.18 15:42:21	Gathering full-text indexes
+20.6.18 15:42:21	Gathering column store indexes
+20.6.18 15:42:21	Gathering spatial indexes
+20.6.18 15:42:21	Gathering XML indexes
+20.6.18 15:42:21	Gathering Selective XML indexes
+20.6.18 15:42:21	Gathering encrypted triggers
+20.6.18 15:42:21	Gathering triggers
+20.6.18 15:42:21	Gathering encrypted and clr ddl triggers
+20.6.18 15:42:21	Gathering ddl triggers
+20.6.18 15:42:21	Gathering synonyms
+20.6.18 15:42:21	Gathering defaults
+20.6.18 15:42:21	Gathering data constraint uddt bindings
+20.6.18 15:42:21	Gathering rules
+20.6.18 15:42:21	Gathering data constraint uddt bindings
+20.6.18 15:42:21	Gathering message types
+20.6.18 15:42:21	Gathering queues
+20.6.18 15:42:21	Gathering contracts
+20.6.18 15:42:21	Gathering services
+20.6.18 15:42:21	Gathering event notifications
+20.6.18 15:42:21	Gathering remote service bindings
+20.6.18 15:42:21	Gathering broker priorities
+20.6.18 15:42:21	Gathering signatures
+20.6.18 15:42:21	Gathering data compression options
+20.6.18 15:42:21	Gathering sequence types
+20.6.18 15:42:21	Gathering extended properties
+20.6.18 15:42:22	Gathering credentials
+20.6.18 15:42:22	Gathering logins
+20.6.18 15:42:22	Gathering server audits
+20.6.18 15:42:24	Scanning project for duplicate elements
+20.6.18 15:42:25	Finished duplicate element processing
+20.6.18 15:42:25	Finished importing database.
+20.6.18 15:42:25	A summary of the import was saved to the following location: C:\Users\erik.papenfuss\source\repos\Database1\Database1\Import Schema Logs\Database1_20180620014158.log
+20.6.18 15:42:26	Click Finish to continue...
